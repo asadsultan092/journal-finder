@@ -1,0 +1,5 @@
+{
+  "name": "JournalFinder AI",
+  "description": "An intelligent research companion that suggests the most suitable academic journals for your research paper based on title and keywords, providing deep insights into metrics, publication fees, and open-access options.",
+  "requestFramePermissions": []
+}
